@@ -1,1 +1,1 @@
-[Full](https://githubusercontent.com/Asureon/UI_Collections/main/ASU_5.0/Previews/FullView.jpeg)
+[Full](https://github.com/Asureon/UI_Collections/blob/main/ASU_5.0/Previews/FullView.jpg)
