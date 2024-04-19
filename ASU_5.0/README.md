@@ -13,6 +13,7 @@ Please bear in mind that while it's still an early build, there are certain setb
 - Filler buttons: Some skills are just there to fill the void due to the excess amount of slots and the lack of extra abilities because of the combo button. You can remove them, you can change them, do with them whatever you like.
 <br><br>
 <br><br>
+<br><br>
 If you have any questions or find any bugs/errors/missing things whatshowever, feel free to send me a message on Discord or set up a pull request.
 <br><br>
 <h2>PLD</h2>
