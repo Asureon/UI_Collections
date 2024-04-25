@@ -22,7 +22,7 @@ Press the reload button from DelvUI this time and you should be good to go!
 
 <h2>Known Issues:</h2>
 - Clipping: The background frames might be on top of the bars due to DelvCD layering on top of DelvUI. The only way to set this correctly is to disable DelvCD, restart the game and turn it back on, but you would have to do this every time when you start up the game. So far I haven't found a fix for this, but rather a way to work around it. I installed a plugin which automatically executes a command when I log in, which enables a Dalamud collection which has DelvCD in it. Then I have created a macro which automatically turns the collection off when I press the exit game button. Not the most handy option, but atleast that does it for me.<br><br>
-- Undiscovered bugs: I haven't been able to test everything due to not having everything levelled etc etc so expect alot of errors.
+- Undiscovered bugs: I haven't been able to test everything due to not having everything levelled etc etc so expect alot of errors.<br><br>
 - Limited: Not available for every class, see previews.
 <br><br><br>
 <i>If you have any questions or find any bugs/errors/missing things whatshowever, feel free to send me a message on Discord or set up an issue.</i>
