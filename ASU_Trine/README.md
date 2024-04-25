@@ -14,11 +14,11 @@ You can find the fonts I've used inside the subfolder. To implement them both in
 First off you should find the font folder of DelvCD and place the fonts in there (It is a fixed file), you can find the path by clicking the button next to "Copy Font Folder Path to Clipboard".<br>
 After that's done, you can click the reload button on the right next to the font name in DelvCD and the fonts should appear in the list.
 <br><br>
-<img src="./Previews/font1.jpg"/>
+<img src="./ASU_5.0/Previews/font1.jpg"/>
 Now with the folder path still being on your clipboard, you need to paste this in the font path of DelvUI. Unlike DelvCD, you can decide where you want to keep its fonts but it's handier and easier if they both shared the same font folder.<br>
 Press the reload button from DelvUI this time and you should be good to go!
 <br><br>
-<img src="./Previews/font2.jpg"/>
+<img src="./ASU_5.0/Previews/font2.jpg"/>
 <br><br>
 
 <h2>Known Issues:</h2>
@@ -29,4 +29,4 @@ Press the reload button from DelvUI this time and you should be good to go!
 <br><br>
 <h1>PREVIEWS</h1>
 <h2>PLD</h2>
-<img src="./Previews/PLD.jpeg"/>
+<img src="./Previews/PLD.jpg"/>
