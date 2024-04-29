@@ -30,3 +30,5 @@ Press the reload button from DelvUI this time and you should be good to go!
 <h1>PREVIEWS</h1>
 <h2>PLD</h2>
 <img src="./Previews/PLD.jpg"/>
+<h2>NIN</h2>
+<img src="./Previews/NIN.jpg"/>
