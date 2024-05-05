@@ -9,6 +9,8 @@ Please bear in mind that while it's still an early build, there are certain setb
 <br><br>
 <h3>Available Classes</h3>
 PLD, NIN, SGE
+<br>
+I make these class profiles in no particular order so if you would like a certain class profile, just send me a message and I'll give it higher priority.
 <br><br><br>
 
 <h2>Fonts</h2>
