@@ -26,9 +26,3 @@ Press the reload button from DelvUI this time and you should be good to go!
 - Limited: Not available for every class, see previews.
 <br><br><br>
 <i>If you have any questions or find any bugs/errors/missing things whatshowever, feel free to send me a message on Discord or set up an issue.</i>
-<br><br>
-<h1>PREVIEWS</h1>
-<h2>PLD</h2>
-<img src="./Previews/PLD.jpg"/>
-<h2>NIN</h2>
-<img src="./Previews/NIN.jpg"/>
