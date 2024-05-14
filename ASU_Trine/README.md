@@ -41,11 +41,11 @@ What you will have to change are the X and Y coordinates of the group, using inc
 But what if you don't even want Holy Spirit in its current block of skills, but rather on the right block instead? Well, there's an easy solution for that.
 <br><br>
 <img src="./Previews/Align2.jpg"/>
-Here, we need to roll back one step in the hierarchy so that you're in the list of the seecondary field, [ASU_Trine > PLD > Secondary Field]. (You go this way by clicking the Pencil Icon in its row.)<br>
+Here, we need to roll back one step in the hierarchy so that you're in the list of the secondary field, [ASU_Trine > PLD > Secondary Field]. (You go this way by clicking the Pencil Icon in its row.)<br>
 Between the other skills, you will find the group of Holy Spirit. What you need to do here is click the icon with the upwards arrow on its line so that the whole group will be copied onto your clipboard.
 <br><br>
 <img src="./Previews/Align4.jpg"/>
-Next, we go to the Tertiary field, [ASU_Trine > PLD > Secondary Field]. In the top-right corner, you will see an icon with a downward arrow. Click on it and the Holy Spirit group should appear in the list, along with the icon showing on the same location, but in the right block instead.<br>
+Next, we go to the Tertiary field, [ASU_Trine > PLD > Tertiary Field]. In the top-right corner, you will see an icon with a downward arrow. Click on it and the Holy Spirit group should appear in the list, along with the icon showing on the same location, but in the right block instead.<br>
 From here, you can check the previous step on how to adjust the location of it in the block.
 <br><br>
 <img src="./Previews/Align5.jpg"/>
