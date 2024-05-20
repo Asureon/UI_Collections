@@ -8,7 +8,7 @@ This is still the first draft, so for now this is only available for a few class
 Please bear in mind that while it's still an early build, there are certain setbacks that come along with it, and some that I cannot fix either.
 <br><br>
 <h3>Available Classes</h3>
-All tanks, DRG, NIN, RPR, SGE, BRD, DNC, SMN, RDM
+All tanks, MNK, DRG, NIN, RPR, SGE, BRD, DNC, SMN, RDM
 <br>
 I make these class profiles in no particular order so if you would like a certain class profile, just send me a message and I'll give it higher priority.
 <br><br><br>
