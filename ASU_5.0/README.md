@@ -3,9 +3,7 @@
 <br><br>
 <h2>Introduction</h2>
 My own personal UI! There's still alot of work to it when it comes to the accessibility of the DelvCD (Repositioning of icons and such) but this is still an early upload and it will get updated from time to time.
-<br><br>
-Mainly set to my own keybinds, this UI comes with a main actionbar consisting of an all-in-one combo button and main cooldowns/rotation abilities, altogether with situational/less important skills on the left and right side. Every skill is also set to only display when you are at a high enough level to use it, so it is also low-level-friendly (even though I may have missed one or more, who knows). Underneath them you find your main resource trackers alongside other important features according to the class together with your own casting bar and Limit Break meter. The player frame is to be found on the left, with the smaller focus target frame next to it if there has been one selected. Target frame on the right, with the target of target frame following it. Party frames are to be found on the left, and a mirrored enemy list on the right side, both tracking buffs and debuffs.
-<br><br>
+<br>
 Please bear in mind that there are certain setbacks that come along with it, and some that I cannot fix either.
 <br>
 <h3>Available Classes</h3>
