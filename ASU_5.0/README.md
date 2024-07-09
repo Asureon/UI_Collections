@@ -1,4 +1,4 @@
-<h1>ASU 5.0</h1>
+<h1>ASU 5.0 (Outdated)</h1>
 <img src="./Previews/FullView.jpg"/>
 <br><br>
 <h2>Introduction</h2>
