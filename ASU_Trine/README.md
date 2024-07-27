@@ -7,7 +7,7 @@ Another project of mine! I've noticed there were quite some people out there rea
 Please bear in mind that there are certain setbacks that come along with it, some that I cannot fix due to the limitations of the tools used.
 <br>
 <h3>Available Classes</h3>
-All Tanks, WHM, AST, MNK, NIN, VPR, RDM
+All Tanks, WHM, AST, MNK, NIN, RPR, VPR, RDM
 <br><br>
 
 <h2>Fonts</h2>
