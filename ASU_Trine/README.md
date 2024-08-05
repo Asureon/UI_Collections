@@ -7,7 +7,7 @@ Another project of mine! I've noticed there were quite some people out there rea
 Please bear in mind that there are certain setbacks that come along with it, some that I cannot fix due to the limitations of the tools used.
 <br>
 <h3>Available Classes</h3>
-All melee classes, AST, RDM
+All melee classes, WHM, AST, RDM
 <br><br>
 
 <h2>Fonts</h2>
